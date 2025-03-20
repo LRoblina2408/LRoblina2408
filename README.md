@@ -32,7 +32,7 @@
 ## 🌍 Idiomas que domino
 
 - **Español** 🇪🇸 (Nativo)  
-- **Inglés** 🇬🇧 (Nivel B1-B2)  
+- **Inglés** 🇺🇸 (Nivel B1-B2)  
 - **Italiano** 🇮🇹 (Nivel B1)  
 
 ---
@@ -61,7 +61,7 @@ Hello! I am a developer with experience in various technologies and programming 
 ### 🌍 Languages I Speak
 
 - **Spanish** 🇪🇸 (Native)  
-- **English** 🇬🇧 (B1-B2 Level)  
+- **English** 🇺🇸 (B1-B2 Level)  
 - **Italian** 🇮🇹 (B1 Level)  
 
 ### 📌 Featured Projects
@@ -86,7 +86,7 @@ Ciao! Sono uno sviluppatore con esperienza in diverse tecnologie e linguaggi di 
 ### 🌍 Lingue che Parlo
 
 - **Spagnolo** 🇪🇸 (Madrelingua)  
-- **Inglese** 🇬🇧 (Livello B1-B2)  
+- **Inglese** 🇺🇸 (Livello B1-B2)  
 - **Italiano** 🇮🇹 (Livello B1)  
 
 ### 📌 Progetti in Evidenza
